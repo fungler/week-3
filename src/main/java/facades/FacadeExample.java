@@ -7,7 +7,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 /**
- *
+ * HEJ SKAL LAVE EN ÆNDRING
  * Rename Class to a relevant name Add add relevant facade methods
  */
 public class FacadeExample {

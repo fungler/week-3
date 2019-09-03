@@ -7,6 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.NamedQuery;
 
+// Der skal laves en update for at teste :)
 
 @Entity
 @NamedQuery(name = "RenameMe.deleteAllRows", query = "DELETE from RenameMe")
